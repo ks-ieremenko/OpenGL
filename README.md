@@ -24,7 +24,7 @@ Creating 3D and 2D shapes using OpenGL and Glut.
 
 Used libraries:
 ```c#
-using System;
+using SharpGL;
 using Tao.OpenGl;
 using Tao.FreeGlut;
 ```
@@ -39,5 +39,5 @@ Can be enabled/disabled:
 
 ---
 
-## How the program works 😄 
+## How the program works 🌞 
 <img src="https://github.com/ks-ieremenko/OpenGL/blob/master/readme_assets/example_opengl.gif" width="1000">
