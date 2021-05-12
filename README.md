@@ -37,4 +37,7 @@ Can be enabled/disabled:
 
 **Possible actions**: rotation, translation along x, y, z
 
+---
 
+## How the program works 😄 
+<img src="https://github.com/ks-ieremenko/OpenGL/blob/master/readme_assets/example_opengl.gif" width="1000">
