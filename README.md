@@ -28,12 +28,12 @@ using SharpGL;
 using Tao.OpenGl;
 using Tao.FreeGlut;
 ```
-> Relates only to *3D objects* 🧊:
+> Relates only to *3D objects*:
 
 Can be enabled/disabled:
 - Lightning 💡
-- Axes display ➕ 
-- Wire ◻ or solid ◼ shape display
+- Axes display 
+- Wire or solid shape display
 
 **Possible actions**: rotation, translation along x, y, z
 
